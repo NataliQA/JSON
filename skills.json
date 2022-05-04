@@ -1,5 +1,5 @@
 {
-	"Tesring_theory":"What is testing, test documentation, types, testing methods, SDLC, STLC",
+	"Test`ing_theory":"What is testing, test documentation, types, testing methods, SDLC, STLC",
 	"API_testing":["Postman", "JSON", "XML", "JavaScript", "Autotest API"],
 	"Web_testing":["Charles", "Fiddler", "Dev Tools", "VPN"],
 	"Mobile_testing":["iOS and Android guidelines", "Android Studio", "ADB", "Sniffing of mobile traffic"],
